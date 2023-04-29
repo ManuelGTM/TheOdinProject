@@ -3,6 +3,6 @@
 My first GitHub repo!
 Hello Odin!  
 
-Este en otro cambio en el repo
+Este es mi primer repositorio hecho completo por la terminal en linux!
 
-Esto esta pila de jevi arstarst
+
